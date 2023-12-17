@@ -1,4 +1,5 @@
 </p>
+</p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
@@ -98,39 +99,26 @@
 
 #### DEPLOY TO REPLIT
 
-1. If Yo</p>
-<p align="center">
-  <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
-    </p>
-<h1 align="center">    KING-MULTI-DEVICE (BETA)
-</h1>
-<p align="center"> 
-  
-<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
- 
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING_MD-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
-<p/>
+1. If You don't have a account in Replit. Create a account.
+    <br>
+<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+2. Now Deploy
+    <br>
+<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+---
 
 
+<h2 align="center"> Star This Repo If You like KING-MD🌟
+</h2>
 
----  
+#### Thanks To 
 
-</p>
+1: Suhail Bro
 
+2: Zubair Bro
 
-   <p align="left">
-  <a href="https://github.com/naveeddogar/KING-MD/fork">
-    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
-  <p align="left"> 
-  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
-      
-  
- 
+3: SamPandy Bro
 
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+#### NOTE: DON'T MODIFY THIS BOT AND DON'T POSSIBLE TO MODIFY 
